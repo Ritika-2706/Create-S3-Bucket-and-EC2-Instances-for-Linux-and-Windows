@@ -43,7 +43,8 @@ Connect to the Windows instance using RDP.
 ### REG NUMBER: 212221240046
 ### NAME: Ritika S
  
-![Screenshot (8)](https://github.com/user-attachments/assets/47a17202-a463-4ccd-9dad-e08815539759)
+![Uploading Screenshot (8).png…]()
+
 ![p](https://github.com/user-attachments/assets/5de0956f-427f-414e-bfc2-28924cc081df)
 
 ## RESULT
